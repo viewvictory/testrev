@@ -1,0 +1,182 @@
+[
+    {
+        "qtid": 19,
+        "name_zh": "阿森纳",
+        "name_zht": "阿仙奴",
+        "name_en": "Arsenal",
+        "extra_info": "",
+        "logo": "images/164577419697.png",
+        "status": 0
+    },
+    {
+        "qtid": 20,
+        "name_zh": "阿斯顿维拉",
+        "name_zht": "阿士東維拉",
+        "name_en": "Aston Villa",
+        "extra_info": "",
+        "logo": "images/1hzrbdqcqe1x.png",
+        "status": 0
+    },
+    {
+        "qtid": 24,
+        "name_zh": "切尔西",
+        "name_zht": "車路士",
+        "name_en": "Chelsea",
+        "extra_info": "",
+        "logo": "images/164577409120.png",
+        "status": 0
+    },
+    {
+        "qtid": 25,
+        "name_zh": "利物浦",
+        "name_zht": "利物浦",
+        "name_en": "Liverpool",
+        "extra_info": "",
+        "logo": "images/1jq85dyw7v2x.png",
+        "status": 0
+    },
+    {
+        "qtid": 26,
+        "name_zh": "曼彻斯特城",
+        "name_zht": "曼城",
+        "name_en": "Manchester City",
+        "extra_info": "",
+        "logo": "images/164577478031.png",
+        "status": 0
+    },
+    {
+        "qtid": 27,
+        "name_zh": "曼彻斯特联",
+        "name_zht": "曼聯",
+        "name_en": "Manchester United",
+        "extra_info": "",
+        "logo": "images/164577479190.png",
+        "status": 0
+    },
+    {
+        "qtid": 28,
+        "name_zh": "纽卡斯尔联",
+        "name_zht": "紐卡素",
+        "name_en": "Newcastle United",
+        "extra_info": "",
+        "logo": "images/164577474623.png",
+        "status": 0
+    },
+    {
+        "qtid": 29,
+        "name_zh": "富勒姆",
+        "name_zht": "富咸",
+        "name_en": "Fulham",
+        "extra_info": "",
+        "logo": "images/16486909637.png",
+        "status": 0
+    },
+    {
+        "qtid": 30,
+        "name_zh": "南安普敦",
+        "name_zht": "修咸頓",
+        "name_en": "Southampton",
+        "extra_info": "",
+        "logo": "images/164577463784.png",
+        "status": 0
+    },
+    {
+        "qtid": 31,
+        "name_zh": "埃弗顿",
+        "name_zht": "愛華頓",
+        "name_en": "Everton",
+        "extra_info": "",
+        "logo": "images/164577449385.png",
+        "status": 0
+    },
+    {
+        "qtid": 33,
+        "name_zh": "托特纳姆热刺",
+        "name_zht": "熱刺",
+        "name_en": "Tottenham Hotspur",
+        "extra_info": "",
+        "logo": "images/1jp24frannc.png",
+        "status": 0
+    },
+    {
+        "qtid": 35,
+        "name_zh": "水晶宫",
+        "name_zht": "水晶宮",
+        "name_en": "Crystal Palace",
+        "extra_info": "",
+        "logo": "images/164577426766.png",
+        "status": 0
+    },
+    {
+        "qtid": 49,
+        "name_zh": "诺丁汉森林",
+        "name_zht": "諾定咸森林",
+        "name_en": "Nottingham Forest",
+        "extra_info": "",
+        "logo": "images/164869100556.png",
+        "status": 0
+    },
+    {
+        "qtid": 52,
+        "name_zh": "狼队",
+        "name_zht": "狼隊",
+        "name_en": "Wolves",
+        "extra_info": "",
+        "logo": "images/164577451783.png",
+        "status": 0
+    },
+    {
+        "qtid": 59,
+        "name_zh": "莱斯特城",
+        "name_zht": "李斯特城",
+        "name_en": "Leicester City",
+        "extra_info": "",
+        "logo": "images/164577432827.png",
+        "status": 0
+    },
+    {
+        "qtid": 60,
+        "name_zh": "布莱顿",
+        "name_zht": "白禮頓",
+        "name_en": "Brighton Hove Albion",
+        "extra_info": "",
+        "logo": "images/164577420829.png",
+        "status": 0
+    },
+    {
+        "qtid": 62,
+        "name_zh": "西汉姆联",
+        "name_zht": "韋斯咸",
+        "name_en": "West Ham United",
+        "extra_info": "",
+        "logo": "images/164577453830.png",
+        "status": 0
+    },
+    {
+        "qtid": 68,
+        "name_zh": "伊普斯维奇",
+        "name_zht": "葉士域治",
+        "name_en": "Ipswich Town",
+        "extra_info": "",
+        "logo": "images/1gz3j7nkdgd.png",
+        "status": 0
+    },
+    {
+        "qtid": 348,
+        "name_zh": "伯恩茅斯",
+        "name_zht": "般尼茅夫",
+        "name_en": "AFC Bournemouth",
+        "extra_info": "",
+        "logo": "images/164869115455.png",
+        "status": 0
+    },
+    {
+        "qtid": 365,
+        "name_zh": "布伦特福德",
+        "name_zht": "賓福特",
+        "name_en": "Brentford",
+        "extra_info": "",
+        "logo": "images/164601812119.png",
+        "status": 0
+    }
+]
